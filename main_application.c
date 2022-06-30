@@ -30,6 +30,7 @@ static void SerialSendTask_0(void* pvParameters);
 static void SerialReceiveTask_1(void* pvParameters);
 static void Obrada_podataka(const void* pvParameters);
 static void Led_bar(const void* pvParameters);
+static void Displej(const void* pvParameters);
 
 /* VARIABLES */
 #define R_BUF_SIZE (32)
