@@ -1,6 +1,10 @@
 # Autoelektronika
 Provera stanja vrata u automobilu 
 
+### Projekat radili:
+Stefan Ćirković EE66/2018
+Aleksandra Cvjetićanin EE17/2018
+
 # Ideja projekta 
 Osnovna ideja ovog projekta je sistem za proveru stanja vrata u automobilu. 
 
